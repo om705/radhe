@@ -10,7 +10,7 @@ PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
 OWNER = int(os.environ.get("OWNER",1403488629))
 
-LOG = -1002094254723
+LOG = -1002109110050
 
 try:
     ADMINS=[]
